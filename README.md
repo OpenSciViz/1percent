@@ -1,6 +1,7 @@
 # 1percent
 
-https://www.forbes.com/sites/tommybeer/2020/10/08/top-1-of-us-households-hold-15-times-more-wealth-than-bottom-50-combined/
+https://www.forbes.com/sites/tommybeer/2020/10/08/top-1-of-us-households-hold-15-times-more-wealth-than-bottom-50-combined
+
 https://www.forbes.com/sites/jackkelly/2020/09/23/american-household-wealth-is-at-the-highest-level-ever-heres-whats-really-happening
 
 ## Power Wallet
