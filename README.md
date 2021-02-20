@@ -1,10 +1,18 @@
 # 1percent
 
+## Financeal Data APIs
+
+from: https://rapidapi.com/blog/best-stock-api/
+
+but not free: https://rapidapi.com/mpeng/api/stock-and-options-trading-data-provider
+
+## Readings on the 1 Percent
+
 https://www.forbes.com/sites/tommybeer/2020/10/08/top-1-of-us-households-hold-15-times-more-wealth-than-bottom-50-combined
 
 https://www.forbes.com/sites/jackkelly/2020/09/23/american-household-wealth-is-at-the-highest-level-ever-heres-whats-really-happening
 
-## Power Wallet
+## Power Wallet Concept
 
 "hemp bio leather":
 https://bioplasticsnews.com/2019/05/16/plant-based-leather/ -- usa source hemp faux leather for wallet
