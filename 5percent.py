@@ -2,9 +2,18 @@
 
 import csv, json, os, sys 
 import logging as log 
-from pprint import pprint as pp
-from datetime import date as day
+from pprint import pprint
+from datetime import date
 from datetime import datetime as dt
+
+def pp(*argv):
+  try:
+    # print('Hello', 'World', 2+3, file=open('file.txt', 'w'))
+    # sys.write(argv[0]+': ') 
+    # for arg in argv[1:]:
+    for arg in argv[0:]:
+      pprint(arg)
+  except: pass
 
 def hon2020(args=[]):
   """
@@ -68,11 +77,9 @@ def hon2020(args=[]):
 
 def main(args):
   today = 'Mon Feb 22, 2021'
-  pp(args)
+  pp('args: ', args)
   hh = hon2020()
-  pp(today)
-# pp(hh)
-
+  pp(today) 
 
 ############################
 
