@@ -1,5 +1,26 @@
 # 1percent
 
+## Workflow
+
+https://firebase.google.com/docs/database/rest/retrieve-data#section-rest-streaming
+https://github.com/thisbejim/Pyrebase
+
+https://www.scaleway.com/en/docs/how-to-setup-and-configure-mistserver/
+
+https://github.com/DDVTECH/mistserver
+
+me hope to prototype some python to fetch yfinance quotes and CRUD
+a firebaseDB table. table updates should be automagically asynchronously
+relay to all interested/connected clients (Google MOM)! should be $$
+free, up to some threshold of space and bandwidth.
+
+cron job can periodically dump/empty firebaseDB to a PostGIS DB on
+my wholesaleinternet.net hosts, before any costs incurred.
+ 
+write a simple HTML5 client firebaseDB SPA webapp that consumes the feed(s) to monitor.
+
+PostGIS DB will potentially someday have some value.
+
 ## Financeal Data APIs
 
 from: https://rapidapi.com/blog/best-stock-api/
