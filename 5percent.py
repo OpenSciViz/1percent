@@ -13,9 +13,13 @@ def hon2020(args=[]):
   """
   today = 'Mon Feb 22, 2021'
   honhedge = {}
+
+# no dividends, but potentially bid capital gains:
   honhedge['UVXY'] = -27.85
+  honhedge['PSTX'] = 19.70
   pp(honhedge) ; idx = len(honhedge)
 
+# dividends 5% and higher at datetime  of acq:
   honhedge['AINV'] = 55.64
   pp(list(honhedge.items())[-idx:]) ; idx = len(honhedge)
 
@@ -45,7 +49,6 @@ def hon2020(args=[]):
   honhedge['NVG'] = 21.32
   pp(list(honhedge.items())[-idx:]) ; idx = len(honhedge)
 
-  honhedge['PSTX'] = 19.70
   honhedge['DIAX'] = 18.65
   honhedge['MHD'] = 18.04
   honhedge['JDD'] = 17.42
