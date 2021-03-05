@@ -2,11 +2,14 @@
 
 ## Workflow
 
+Python backend fetched financial data from whereever and updates firebaseDB
+Vue.js frontend diaplays firebaseDB updates and more ...
+
+https://www.positronx.io/vue-js-firebase-build-vue-crud-app-with-cloud-firestore/
 https://firebase.google.com/docs/database/rest/retrieve-data#section-rest-streaming
 https://github.com/thisbejim/Pyrebase
 
 https://www.scaleway.com/en/docs/how-to-setup-and-configure-mistserver/
-
 https://github.com/DDVTECH/mistserver
 
 me hope to prototype some python to fetch yfinance quotes and CRUD
